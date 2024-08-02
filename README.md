@@ -4,9 +4,13 @@ This repository is a collection of discord statements and messages made by Chris
 
 ## Contents
 
-- **Messages**: A collection of public messages and statements.
-- **Sources**: Links to original sources and further reading.
-- **Analysis**: An analysis of the contents, highlighting key points and themes.
+- **chris_server_general_full.html**: A single HTML file containing all the messages and statements.
+- **split_texts/**: A directory containing HTML files with chunks of the text for easier navigation and referencing.
+
+## Folder Structure
+
+- **chris_server_general_full.html**: Contains the complete collection of messages and statements.
+- **split_texts/**: Contains the messages and statements divided into smaller, more manageable parts.
 
 ## Contributing
 
