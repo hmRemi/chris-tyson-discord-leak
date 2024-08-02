@@ -1,4 +1,4 @@
-# Chris Tyson Public Discord Archive
+# Chris Tyson (Ava Kris Tyson) Public Discord Archive
 
 This repository is a collection of discord statements and messages made by Chris Tyson and his fellow members. The purpose of this repository is to compile these messages for public awareness and research purposes.
 
